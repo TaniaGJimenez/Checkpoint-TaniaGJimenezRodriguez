@@ -1,0 +1,8 @@
+Ejemplo 1: 
+Disco Duro de Estado Solido (SSD)
+
+Ejemplo 2:
+RAM (Random Access Memory)
+
+Ejemplo 3:
+ROM (Read-Only Memory)

@@ -1,0 +1,25 @@
+Tania G@LAPTOP-JBG7EDJM MINGW64 ~/desktop/Checkpoint-TaniaGJimenezRodriguez (main)
+
+$ history
+    1  cd desktop
+    2  git clone https://github.com/TaniaGJimenez/Checkpoint-TaniaGJimenezRodriguez.git
+    3  cd Checkpoint-TaniaGJimenezRodriguez
+    4  git add main.js index.html
+    5  touch main.js
+    6  touch index.html
+    7  git add main.js index.html
+    8  git commit -m "commit 01 de TaniaGJimenezRodriguez"
+    9  git checkout -b feature
+   10  mkdir Hardware Software SeguridadInformatica
+   11  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+   12  git add .
+   13  git commit -m "commit 02 de TaniaGJimenezRodriguez"
+   14  git push origin feature
+   15  git checkout main
+   16  mv main.js resumenHardware.txt
+   17  mv index.html resumenSoftware.txt
+   18  git status
+   19  git add .
+   20  git status
+   21  touch comandos.txt
+   22  history
